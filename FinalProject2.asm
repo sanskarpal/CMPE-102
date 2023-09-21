@@ -1,3 +1,11 @@
+COMMENT !
+Description:Write a program that reads an integer which is an startIndex of one array and copies elements of that array to another array.
+Student Name: Sanskar Pal
+Course Number: CMPE 102
+Project Number: 2
+Date: 04/09/2023
+!
+
 include Irvine32.inc ;using Irvine32 file
 
 
@@ -96,11 +104,3 @@ endProgram PROC ;starting endProgram procedure
 	ret
 endProgram ENDP ;end of endProgram procedure
 END main ;end of program
-
-COMMENT !
-Description:Write a program that reads an integer which is an startIndex of one array and copies elements of that array to another array.
-Student Name: Sanskar Pal
-Course Number: CMPE 102
-Project Number: 2
-Date: 04/09/2023
-!
